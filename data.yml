@@ -1,228 +1,370 @@
 AUS:
-  color: 'green'
-  info: 'As of today it is not illegal to pay ransom in Australia but it is highly discouraged'
-  citation: 'https://www.cyber.gov.au/report-and-recover/recover-from/ransomware'
-NZL:
-  color: 'yellow'
-  info: 'The New Zealand Government strongly discourages the payment of ransoms to cybercriminals, and urges all victims to report any cyber ransom incidents to the relevant agencies, regardless of whether a ransom is paid. Cabinet has agreed that government agencies do not pay cyber ransoms.'
-  citation: 'https://www.dpmc.govt.nz/our-programmes/national-security/cyber-security-strategy/cyber-ransom-advice'
-FRA:
-  color: 'green'
-  info: 'Under French law, no legal text formally prohibits the payment of a ransom in the event of a ransomware attack. However, although the typology of attackers is very diversified and obscure, some attacks can be sponsored by terrorist organisations or by individuals designated on international sanction lists. Paying a ransom, or helping to pay it, to these groups, therefore, exposes the victim to potential criminal and administrative charges for the financing of terrorism or money laundering. Article 421-2-2 of the French Criminal Code punishes in particular the financing of terrorism, and as such provides that It is also an act of terrorism to finance a terrorist enterprise, by providing, collecting or managing any funds, securities or property or by giving advice for that purpose, with the intention of seeing such funds, securities or property used or with the knowledge that they are intended to be used, in whole or in part, for the purpose of committing any of the acts of terrorism provided in this chapter, regardless of the possible occurrence of such an act. When it comes to money laundering, article 324-1 of the FrenchCriminal Code also punishes the fact of facilitating, by any means, the false justification of the origin of properties or incomes of the perpetrator of a crime or of an offense having given him a direct or indirect profit. Committing these acts is liable to up to ten years imprisonment and fines of up to EUR 1,875,000 for companies [6]. Companies subject to the anti-money laundering and terrorism financing obligations provided for by the Monetary and Financial Code also incur administrative sanctions of a maximum amount of EUR 100m or 10% of their turnover [7].'
-  citation: '' 
-GBR:
-  color: 'green'
-  info: 'His Majesty’s Government (HMG) does not condone the making of ransomware payment but as of today, does not prevent organisations from paying.'
-  citation: ''
-ITA:
-  color: 'red'
-  info: 'Extortion payments are not allowed in Italy by law, meaning the payments are illegal.'
-  citation: ''
-CAN:
-  color: 'green'
-  info: 'Paying a ransom is not unlawful under Canadian law, provided the payment does not violate proceeds of crime, money laundering, terrorist financing and economic sanctions laws.'
-  citation: ''
-Connecticut:
-  color: 'red'
-  info: 'Conn. Gen. Stat. § 53a-262 Provides that a person is guilty of computer extortion by use of ransomware when such person introduces ransomware into any computer, computer system or computer network and demands payment of money or other consideration to remove the ransomware, restore access to the computer, computer system, computer network or data contained on such computer, computer system or computer network, or otherwise remediate the impact of the ransomware.'
-  citation: ''
-Louisiana:
-  color: 'red'
-  info: 'La. Rev. Stat. §§ 51:2111 to 51:2116 Creates a registration system for managed service providers and managed security service providers doing business in the state with a public body. Provides access for public bodies to obtain information on managed service providers and managed security service providers. Requires managed service providers and managed security service providers to report to the Louisiana Fusion Center any cyber incidents and the payment of cyber ransom or ransomware. Acts 2020, No. 117, §2, eff. Feb. 1, 2021.'
-  citation: ''
-North Carolina:
-  color: 'red'
-  info: 'NCGS § 143-800 (2021 S.B. 105 (art. 84)) Prohibits state agencies or local government entities from submitting payment or otherwise communicating with an entity that us making a ransomware demand.'
-  citation: ''
-Alaska:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
+  citation: https://www.cyber.gov.au/report-and-recover/recover-from/ransomware
+  color: green
+  info: As of today it is not illegal to pay ransom in Australia but it is highly
+    discouraged
 Alabama:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
-Arkansas:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
+Alaska:
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
 Arizona:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
+Arkansas:
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
+CAN:
+  citation: ''
+  color: green
+  info: Paying a ransom is not unlawful under Canadian law, provided the payment does
+    not violate proceeds of crime, money laundering, terrorist financing and economic
+    sanctions laws.
+CHE:
+  citation: https://www.pwc.ch/en/insights/cybersecurity/ransom-payment.html
+  color: green
+  info: According to the Swiss Criminal Code, paying a ransom is not per se a criminal
+    offense. But it might have legal consequences for other reasons
 California:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
 Colorado:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
+Connecticut:
+  citation: ''
+  color: red
+  info: Conn. Gen. Stat. § 53a-262 Provides that a person is guilty of computer extortion
+    by use of ransomware when such person introduces ransomware into any computer,
+    computer system or computer network and demands payment of money or other consideration
+    to remove the ransomware, restore access to the computer, computer system, computer
+    network or data contained on such computer, computer system or computer network,
+    or otherwise remediate the impact of the ransomware.
 DC:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
 Delaware:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
+FRA:
+  citation: ''
+  color: green
+  info: Under French law, no legal text formally prohibits the payment of a ransom
+    in the event of a ransomware attack. However, although the typology of attackers
+    is very diversified and obscure, some attacks can be sponsored by terrorist organisations
+    or by individuals designated on international sanction lists. Paying a ransom,
+    or helping to pay it, to these groups, therefore, exposes the victim to potential
+    criminal and administrative charges for the financing of terrorism or money laundering.
+    Article 421-2-2 of the French Criminal Code punishes in particular the financing
+    of terrorism, and as such provides that It is also an act of terrorism to finance
+    a terrorist enterprise, by providing, collecting or managing any funds, securities
+    or property or by giving advice for that purpose, with the intention of seeing
+    such funds, securities or property used or with the knowledge that they are intended
+    to be used, in whole or in part, for the purpose of committing any of the acts
+    of terrorism provided in this chapter, regardless of the possible occurrence of
+    such an act. When it comes to money laundering, article 324-1 of the FrenchCriminal
+    Code also punishes the fact of facilitating, by any means, the false justification
+    of the origin of properties or incomes of the perpetrator of a crime or of an
+    offense having given him a direct or indirect profit. Committing these acts is
+    liable to up to ten years imprisonment and fines of up to EUR 1,875,000 for companies
+    [6]. Companies subject to the anti-money laundering and terrorism financing obligations
+    provided for by the Monetary and Financial Code also incur administrative sanctions
+    of a maximum amount of EUR 100m or 10% of their turnover [7].
 Florida:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
+GBR:
+  citation: ''
+  color: green
+  info: His Majesty’s Government (HMG) does not condone the making of ransomware payment
+    but as of today, does not prevent organisations from paying.
 Georgia:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
 Hawaii:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
-Iowa:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
+ITA:
+  citation: ''
+  color: red
+  info: Extortion payments are not allowed in Italy by law, meaning the payments are
+    illegal.
 Idaho:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
 Illinois:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
 Indiana:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
+Iowa:
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
 Kansas:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
 Kentucky:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
-Massachusetts:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
-Maryland:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
+Louisiana:
+  citation: ''
+  color: red
+  info: La. Rev. Stat. §§ 51:2111 to 51:2116 Creates a registration system for managed
+    service providers and managed security service providers doing business in the
+    state with a public body. Provides access for public bodies to obtain information
+    on managed service providers and managed security service providers. Requires
+    managed service providers and managed security service providers to report to
+    the Louisiana Fusion Center any cyber incidents and the payment of cyber ransom
+    or ransomware. Acts 2020, No. 117, §2, eff. Feb. 1, 2021.
 Maine:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
+Maryland:
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
+Massachusetts:
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
 Michigan:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
 Minnesota:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
-Missouri:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
 Mississippi:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
+Missouri:
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
 Montana:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
-North Dakota:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
+NZL:
+  citation: https://www.dpmc.govt.nz/our-programmes/national-security/cyber-security-strategy/cyber-ransom-advice
+  color: yellow
+  info: The New Zealand Government strongly discourages the payment of ransoms to
+    cybercriminals, and urges all victims to report any cyber ransom incidents to
+    the relevant agencies, regardless of whether a ransom is paid. Cabinet has agreed
+    that government agencies do not pay cyber ransoms.
 Nebraska:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
-New Hampshire:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
-New Jersey:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
-New Mexico:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
 Nevada:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
+New Hampshire:
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
+New Jersey:
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
+New Mexico:
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
 New York:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
+North Carolina:
+  citation: ''
+  color: red
+  info: NCGS § 143-800 (2021 S.B. 105 (art. 84)) Prohibits state agencies or local
+    government entities from submitting payment or otherwise communicating with an
+    entity that us making a ransomware demand.
+North Dakota:
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
 Ohio:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
 Oklahoma:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
 Oregon:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
 Pennsylvania:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
 Rhode Island:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
 South Carolina:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
 South Dakota:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
 Tennessee:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
 Texas:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
 Utah:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
-Virginia:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
 Vermont:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
+Virginia:
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
 Washington:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
-Wisconsin:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
 West Virginia:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
+Wisconsin:
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
 Wyoming:
-  color: 'yellow'
-  info: 'A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most cases of paying a ransom are illegal.'
-  citation: 'https://ofac.treasury.gov/recent-actions/20201001'
+  citation: https://ofac.treasury.gov/recent-actions/20201001
+  color: yellow
+  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
+    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
+    cases of paying a ransom are illegal.
