@@ -9,7 +9,7 @@
     <!-- Leaflet CSS -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
 
-    <!-- Internal styles for the map container and legend -->
+    <!-- Internal styles for the map container, legend, and info box -->
     <style>
         body, html {
             height: 100%;
@@ -28,10 +28,8 @@
             width: 100%;
         }
 
-        .legend {
+        .legend, .info-box {
             position: absolute;
-            bottom: 10px;
-            right: 10px;
             background-color: rgba(255, 255, 255, 0.8);
             padding: 10px;
             border-radius: 5px;
@@ -39,7 +37,18 @@
             box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
         }
 
-        .legend-header {
+        .legend {
+            bottom: 10px;
+            right: 10px;
+        }
+
+        .info-box {
+            top: 10px;
+            left: 10px;
+            max-width: 300px; 
+        }
+
+        .legend-header, .info-box-header {
             font-weight: bold;
             margin-bottom: 10px;
         }
@@ -55,6 +64,15 @@
             height: 20px;
             border: 1px solid #ccc;
             margin-right: 5px;
+        }
+
+        a.info-box-link {
+            color: #0077cc;
+            text-decoration: none;
+        }
+
+        a.info-box-link:hover {
+            text-decoration: underline;
         }
     </style>
 
@@ -82,10 +100,16 @@
                 <div class="legend-color" style="background-color: yellow;"></div>
                 <div>It's complicated</div>
             </div>
-                <div class="legend-row">
+            <div class="legend-row">
                 <div class="legend-color" style="background-color: white;"></div>
                 <div>Unknown at this time</div>
             </div>
+        </div>
+
+        <!-- Info Box -->
+        <div class="info-box">
+            <div class="info-box-header">Is it legal to pay a ransom in an extortion event?</div>
+            This is a difficult question. Some countries imply that it's a bad idea because "you might fund ransomware" others are explicit in saying "no". The data is still coming up, but feel free to <a href="https://github.com/rkovar/ransomwarelegality" target=”_blank class="info-box-link">contribute on github</a> if you know more information or find anything incorrect.
         </div>
     </div>
 
