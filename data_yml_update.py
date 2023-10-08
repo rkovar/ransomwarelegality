@@ -20,7 +20,7 @@ def get_input():
     country_id = find_id_by_name(country_name)
     
     if not country_id:
-        print(f"No country found with name: {country_name}")
+        print("You didn't spell something right. Please try again.")
         return None
 
     color = input(f"Enter the color for {country_name}: ")
@@ -43,13 +43,19 @@ def add_to_yaml(file_name, new_data):
         yaml.dump(data, file, default_flow_style=False, allow_unicode=True)
 
 def main():
-    file_name = "data.yml"
-    new_data = get_input()
-    add_to_yaml(file_name, new_data)
-    
-    if new_data:
-        country_id = list(new_data.keys())[0]
-        print(f"{file_name} has been updated with the new data for country ID {country_id}!")
+    while True:
+        file_name = "data.yml"
+        new_data = get_input()
+
+        if new_data:
+            country_id = list(new_data.keys())[0]
+            add_to_yaml(file_name, new_data)
+            print(f"{file_name} has been updated with the new data for country ID {country_id}!")
+            break
+        
+        retry = input("Would you like to try again? (yes/no): ").strip().lower()
+        if retry != "yes":
+            break
 
 if __name__ == "__main__":
     main()
