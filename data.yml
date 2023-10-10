@@ -1,80 +1,145 @@
 AUS:
-  citation: https://www.cyber.gov.au/report-and-recover/recover-from/ransomware
+  citation1: https://www.cyber.gov.au/report-and-recover/recover-from/ransomware
   color: green
   info: As of today it is not illegal to pay ransom in Australia but it is highly
     discouraged
 Alabama:
-  citation: https://ofac.treasury.gov/recent-actions/20201001
+  citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
-  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
-    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
-    cases of paying a ransom are illegal.
+  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+    thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
+    all private companies and citizens from paying ransom or extortion demands and
+    recommends focusing on strengthening defensive and resilience measures to prevent
+    and protect against ransomware attacks. OFAC may impose civil penalties for sanctions
+    violations based on strict liability, meaning that a person subject to U.S. jurisdiction
+    maybe held civilly liable even if such person did not know or have reason to know
+    that it was engaging in a transaction that was prohibited under sanctions laws
+    and regulations administered by OFAC.
 Alaska:
-  citation: https://ofac.treasury.gov/recent-actions/20201001
+  citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
-  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
-    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
-    cases of paying a ransom are illegal.
+  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+    thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
+    all private companies and citizens from paying ransom or extortion demands and
+    recommends focusing on strengthening defensive and resilience measures to prevent
+    and protect against ransomware attacks. OFAC may impose civil penalties for sanctions
+    violations based on strict liability, meaning that a person subject to U.S. jurisdiction
+    maybe held civilly liable even if such person did not know or have reason to know
+    that it was engaging in a transaction that was prohibited under sanctions laws
+    and regulations administered by OFAC.
 Arizona:
-  citation: https://ofac.treasury.gov/recent-actions/20201001
+  citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
-  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
-    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
-    cases of paying a ransom are illegal.
+  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+    thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
+    all private companies and citizens from paying ransom or extortion demands and
+    recommends focusing on strengthening defensive and resilience measures to prevent
+    and protect against ransomware attacks. OFAC may impose civil penalties for sanctions
+    violations based on strict liability, meaning that a person subject to U.S. jurisdiction
+    maybe held civilly liable even if such person did not know or have reason to know
+    that it was engaging in a transaction that was prohibited under sanctions laws
+    and regulations administered by OFAC.
 Arkansas:
-  citation: https://ofac.treasury.gov/recent-actions/20201001
+  citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
-  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
-    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
-    cases of paying a ransom are illegal.
+  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+    thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
+    all private companies and citizens from paying ransom or extortion demands and
+    recommends focusing on strengthening defensive and resilience measures to prevent
+    and protect against ransomware attacks. OFAC may impose civil penalties for sanctions
+    violations based on strict liability, meaning that a person subject to U.S. jurisdiction
+    maybe held civilly liable even if such person did not know or have reason to know
+    that it was engaging in a transaction that was prohibited under sanctions laws
+    and regulations administered by OFAC.
 CAN:
-  citation: ''
+  citation1: https://www.mondaq.com/canada/security/1060944/ransomware--privacy-law-sanctions-and-the-pandemic
   color: green
-  info: Paying a ransom is not unlawful under Canadian law, provided the payment does
-    not violate proceeds of crime, money laundering, terrorist financing and economic
-    sanctions laws.
+  info: While there are financial and ethical considerations at play, paying a ransom
+    to a criminal is, generally speaking, not illegal in Canada. However, it is a
+    crime to give financial aid to designated individuals and organizations that are
+    deemed terrorists or otherwise on applicable sanctions lists or from embargoed
+    countries. Entities considering paying a ransom should conduct due- diligence
+    and contemporaneously document their findings in order to show that they undertook
+    reasonable steps to ascertain the identity of the attackers. Most penalties for
+    violating Canadian sanctions include knowledge qualifiers, so payors should be
+    in a position to demonstrate the steps they took to ensure that a ransom payment
+    did not violate such provisions. In the United States, OFAC released guidance
+    on this issue, and Canadian organizations with ties to the US should be acutely
+    aware of the risks and expectations.
 CHE:
-  citation: https://www.pwc.ch/en/insights/cybersecurity/ransom-payment.html
+  citation1: https://www.pwc.ch/en/insights/cybersecurity/ransom-payment.html
   color: green
   info: According to the Swiss Criminal Code, paying a ransom is not per se a criminal
     offense. But it might have legal consequences for other reasons
 California:
-  citation: https://ofac.treasury.gov/recent-actions/20201001
+  citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
-  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
-    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
-    cases of paying a ransom are illegal.
+  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+    thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
+    all private companies and citizens from paying ransom or extortion demands and
+    recommends focusing on strengthening defensive and resilience measures to prevent
+    and protect against ransomware attacks. OFAC may impose civil penalties for sanctions
+    violations based on strict liability, meaning that a person subject to U.S. jurisdiction
+    maybe held civilly liable even if such person did not know or have reason to know
+    that it was engaging in a transaction that was prohibited under sanctions laws
+    and regulations administered by OFAC.
 Colorado:
-  citation: https://ofac.treasury.gov/recent-actions/20201001
+  citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
-  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
-    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
-    cases of paying a ransom are illegal.
+  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+    thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
+    all private companies and citizens from paying ransom or extortion demands and
+    recommends focusing on strengthening defensive and resilience measures to prevent
+    and protect against ransomware attacks. OFAC may impose civil penalties for sanctions
+    violations based on strict liability, meaning that a person subject to U.S. jurisdiction
+    maybe held civilly liable even if such person did not know or have reason to know
+    that it was engaging in a transaction that was prohibited under sanctions laws
+    and regulations administered by OFAC.
 Connecticut:
-  citation: https://ofac.treasury.gov/recent-actions/20201001
+  citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
-  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
-    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
-    cases of paying a ransom are illegal.
+  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+    thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
+    all private companies and citizens from paying ransom or extortion demands and
+    recommends focusing on strengthening defensive and resilience measures to prevent
+    and protect against ransomware attacks. OFAC may impose civil penalties for sanctions
+    violations based on strict liability, meaning that a person subject to U.S. jurisdiction
+    maybe held civilly liable even if such person did not know or have reason to know
+    that it was engaging in a transaction that was prohibited under sanctions laws
+    and regulations administered by OFAC.
 DC:
-  citation: https://ofac.treasury.gov/recent-actions/20201001
+  citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
-  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
-    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
-    cases of paying a ransom are illegal.
+  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+    thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
+    all private companies and citizens from paying ransom or extortion demands and
+    recommends focusing on strengthening defensive and resilience measures to prevent
+    and protect against ransomware attacks. OFAC may impose civil penalties for sanctions
+    violations based on strict liability, meaning that a person subject to U.S. jurisdiction
+    maybe held civilly liable even if such person did not know or have reason to know
+    that it was engaging in a transaction that was prohibited under sanctions laws
+    and regulations administered by OFAC.
 DEU:
-  citation: '    offense in Germany. However, the US sanctions regime may also apply
-    to German'
-  color: purple
+  citation1: https://www.cliffordchance.com/content/dam/cliffordchance/briefings/2020/12/Ransomware%20Playbook%20-%20Prevention%20and%20Response.pdf'
+  color: green
   info: As in the United States, paying a ransom is not in and of itself a criminal
+    offense in Germany. However, the US sanctions regime may also apply to German
+    companies and therefore the considerations summarized above should be taken into
+    consideration on a case-by-case basis.
 Delaware:
-  citation: https://ofac.treasury.gov/recent-actions/20201001
+  citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
-  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
-    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
-    cases of paying a ransom are illegal.
+  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+    thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
+    all private companies and citizens from paying ransom or extortion demands and
+    recommends focusing on strengthening defensive and resilience measures to prevent
+    and protect against ransomware attacks. OFAC may impose civil penalties for sanctions
+    violations based on strict liability, meaning that a person subject to U.S. jurisdiction
+    maybe held civilly liable even if such person did not know or have reason to know
+    that it was engaging in a transaction that was prohibited under sanctions laws
+    and regulations administered by OFAC.
 FRA:
-  citation: https://cms.law/en/fra/news-information/ransomware-attack#:~:text=Under%20French%20law%2C%20no%20legal,designated%20on%20international%20sanction%20lists.
+  citation1: https://cms.law/en/fra/news-information/ransomware-attack#:~:text=Under%20French%20law%2C%20no%20legal,designated%20on%20international%20sanction%20lists.
   color: green
   info: Under French law, no legal text formally prohibits the payment of a ransom
     in the event of a ransomware attack. However, although the typology of attackers
@@ -98,66 +163,120 @@ FRA:
     provided for by the Monetary and Financial Code also incur administrative sanctions
     of a maximum amount of EUR 100m or 10% of their turnover [7].
 Florida:
-  citation: http://custom.statenet.com/public/resources.cgi?id=ID:bill:FL2022000H7055&ciq=ncsl&client_md=873221c8bbff89a3b5b060ab949b22da&mode=current_text
+  citation1: http://custom.statenet.com/public/resources.cgi?id=ID:bill:FL2022000H7055&ciq=ncsl&client_md=873221c8bbff89a3b5b060ab949b22da&mode=current_text
   color: purple
   info: 'Requires state agencies and local governments to report ransomware incidents
     to certain entities within specified timeframes. Requires an annual ransomware
     incident report be submitted to the Governor and the Legislature.  '
 GBR:
-  citation: https://www.cybereason.com/blog/what-are-the-legal-implications-from-a-ransomware-attack#:~:text=Facilitating%20ransomware%20payments%20to%20sanctioned,it%20is%20linked%20to%20terrorism
-  color: yellow
-  info: hThe UK Terrorism Act 2000 also makes it illegal to pay a ransomware demand
-    where there is a suspicion it is linked to terrorism.
+  citation1: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1135587/Ransomware___Sanctions_guidance__Feb_2023_.pdf
+  citation2: https://www.cliffordchance.com/content/dam/cliffordchance/briefings/2020/12/Ransomware%20Playbook%20-%20Prevention%20and%20Response.pdf
+  color: green
+  info: His Majesty’s Government (HMG) does not condone the making of ransomware payments.
+    Much as in the United States, there is no blanket ban on ransom payments in the
+    United Kingdom, although companies should remain wary of counter-terrorism, anti-
+    money laundering and sanction provisions. For instance, under s15(3) and s17 of
+    the Terrorism Act 2000, a party will be liable for a ransomware payment if they
+    knew or had reasonable cause to suspect that the funds would or may be used for
+    the purposes of terrorism
 Georgia:
-  citation: https://ofac.treasury.gov/recent-actions/20201001
+  citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
-  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
-    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
-    cases of paying a ransom are illegal.
+  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+    thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
+    all private companies and citizens from paying ransom or extortion demands and
+    recommends focusing on strengthening defensive and resilience measures to prevent
+    and protect against ransomware attacks. OFAC may impose civil penalties for sanctions
+    violations based on strict liability, meaning that a person subject to U.S. jurisdiction
+    maybe held civilly liable even if such person did not know or have reason to know
+    that it was engaging in a transaction that was prohibited under sanctions laws
+    and regulations administered by OFAC.
 Hawaii:
-  citation: https://ofac.treasury.gov/recent-actions/20201001
+  citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
-  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
-    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
-    cases of paying a ransom are illegal.
+  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+    thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
+    all private companies and citizens from paying ransom or extortion demands and
+    recommends focusing on strengthening defensive and resilience measures to prevent
+    and protect against ransomware attacks. OFAC may impose civil penalties for sanctions
+    violations based on strict liability, meaning that a person subject to U.S. jurisdiction
+    maybe held civilly liable even if such person did not know or have reason to know
+    that it was engaging in a transaction that was prohibited under sanctions laws
+    and regulations administered by OFAC.
 Idaho:
-  citation: https://ofac.treasury.gov/recent-actions/20201001
+  citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
-  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
-    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
-    cases of paying a ransom are illegal.
+  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+    thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
+    all private companies and citizens from paying ransom or extortion demands and
+    recommends focusing on strengthening defensive and resilience measures to prevent
+    and protect against ransomware attacks. OFAC may impose civil penalties for sanctions
+    violations based on strict liability, meaning that a person subject to U.S. jurisdiction
+    maybe held civilly liable even if such person did not know or have reason to know
+    that it was engaging in a transaction that was prohibited under sanctions laws
+    and regulations administered by OFAC.
 Illinois:
-  citation: https://ofac.treasury.gov/recent-actions/20201001
+  citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
-  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
-    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
-    cases of paying a ransom are illegal.
+  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+    thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
+    all private companies and citizens from paying ransom or extortion demands and
+    recommends focusing on strengthening defensive and resilience measures to prevent
+    and protect against ransomware attacks. OFAC may impose civil penalties for sanctions
+    violations based on strict liability, meaning that a person subject to U.S. jurisdiction
+    maybe held civilly liable even if such person did not know or have reason to know
+    that it was engaging in a transaction that was prohibited under sanctions laws
+    and regulations administered by OFAC.
 Indiana:
-  citation: https://ofac.treasury.gov/recent-actions/20201001
+  citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
-  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
-    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
-    cases of paying a ransom are illegal.
+  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+    thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
+    all private companies and citizens from paying ransom or extortion demands and
+    recommends focusing on strengthening defensive and resilience measures to prevent
+    and protect against ransomware attacks. OFAC may impose civil penalties for sanctions
+    violations based on strict liability, meaning that a person subject to U.S. jurisdiction
+    maybe held civilly liable even if such person did not know or have reason to know
+    that it was engaging in a transaction that was prohibited under sanctions laws
+    and regulations administered by OFAC.
 Iowa:
-  citation: https://ofac.treasury.gov/recent-actions/20201001
+  citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
-  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
-    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
-    cases of paying a ransom are illegal.
+  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+    thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
+    all private companies and citizens from paying ransom or extortion demands and
+    recommends focusing on strengthening defensive and resilience measures to prevent
+    and protect against ransomware attacks. OFAC may impose civil penalties for sanctions
+    violations based on strict liability, meaning that a person subject to U.S. jurisdiction
+    maybe held civilly liable even if such person did not know or have reason to know
+    that it was engaging in a transaction that was prohibited under sanctions laws
+    and regulations administered by OFAC.
 Kansas:
-  citation: https://ofac.treasury.gov/recent-actions/20201001
+  citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
-  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
-    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
-    cases of paying a ransom are illegal.
+  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+    thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
+    all private companies and citizens from paying ransom or extortion demands and
+    recommends focusing on strengthening defensive and resilience measures to prevent
+    and protect against ransomware attacks. OFAC may impose civil penalties for sanctions
+    violations based on strict liability, meaning that a person subject to U.S. jurisdiction
+    maybe held civilly liable even if such person did not know or have reason to know
+    that it was engaging in a transaction that was prohibited under sanctions laws
+    and regulations administered by OFAC.
 Kentucky:
-  citation: https://ofac.treasury.gov/recent-actions/20201001
+  citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
-  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
-    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
-    cases of paying a ransom are illegal.
+  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+    thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
+    all private companies and citizens from paying ransom or extortion demands and
+    recommends focusing on strengthening defensive and resilience measures to prevent
+    and protect against ransomware attacks. OFAC may impose civil penalties for sanctions
+    violations based on strict liability, meaning that a person subject to U.S. jurisdiction
+    maybe held civilly liable even if such person did not know or have reason to know
+    that it was engaging in a transaction that was prohibited under sanctions laws
+    and regulations administered by OFAC.
 Louisiana:
-  citation: https://www.legis.la.gov/Legis/Law.aspx?d=1187004
+  citation1: https://www.legis.la.gov/Legis/Law.aspx?d=1187004
   color: purple
   info: Creates a registration system for managed service providers and managed security
     service providers doing business in the state with a public body. Provides access
@@ -167,104 +286,194 @@ Louisiana:
     and the payment of cyber ransom or ransomware. Acts 2020, No. 117, §2, eff. Feb.
     1, 2021.
 Maine:
-  citation: https://ofac.treasury.gov/recent-actions/20201001
+  citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
-  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
-    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
-    cases of paying a ransom are illegal.
+  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+    thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
+    all private companies and citizens from paying ransom or extortion demands and
+    recommends focusing on strengthening defensive and resilience measures to prevent
+    and protect against ransomware attacks. OFAC may impose civil penalties for sanctions
+    violations based on strict liability, meaning that a person subject to U.S. jurisdiction
+    maybe held civilly liable even if such person did not know or have reason to know
+    that it was engaging in a transaction that was prohibited under sanctions laws
+    and regulations administered by OFAC.
 Maryland:
-  citation: https://ofac.treasury.gov/recent-actions/20201001
+  citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
-  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
-    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
-    cases of paying a ransom are illegal.
+  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+    thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
+    all private companies and citizens from paying ransom or extortion demands and
+    recommends focusing on strengthening defensive and resilience measures to prevent
+    and protect against ransomware attacks. OFAC may impose civil penalties for sanctions
+    violations based on strict liability, meaning that a person subject to U.S. jurisdiction
+    maybe held civilly liable even if such person did not know or have reason to know
+    that it was engaging in a transaction that was prohibited under sanctions laws
+    and regulations administered by OFAC.
 Massachusetts:
-  citation: https://ofac.treasury.gov/recent-actions/20201001
+  citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
-  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
-    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
-    cases of paying a ransom are illegal.
+  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+    thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
+    all private companies and citizens from paying ransom or extortion demands and
+    recommends focusing on strengthening defensive and resilience measures to prevent
+    and protect against ransomware attacks. OFAC may impose civil penalties for sanctions
+    violations based on strict liability, meaning that a person subject to U.S. jurisdiction
+    maybe held civilly liable even if such person did not know or have reason to know
+    that it was engaging in a transaction that was prohibited under sanctions laws
+    and regulations administered by OFAC.
 Michigan:
-  citation: https://ofac.treasury.gov/recent-actions/20201001
+  citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
-  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
-    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
-    cases of paying a ransom are illegal.
+  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+    thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
+    all private companies and citizens from paying ransom or extortion demands and
+    recommends focusing on strengthening defensive and resilience measures to prevent
+    and protect against ransomware attacks. OFAC may impose civil penalties for sanctions
+    violations based on strict liability, meaning that a person subject to U.S. jurisdiction
+    maybe held civilly liable even if such person did not know or have reason to know
+    that it was engaging in a transaction that was prohibited under sanctions laws
+    and regulations administered by OFAC.
 Minnesota:
-  citation: https://ofac.treasury.gov/recent-actions/20201001
+  citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
-  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
-    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
-    cases of paying a ransom are illegal.
+  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+    thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
+    all private companies and citizens from paying ransom or extortion demands and
+    recommends focusing on strengthening defensive and resilience measures to prevent
+    and protect against ransomware attacks. OFAC may impose civil penalties for sanctions
+    violations based on strict liability, meaning that a person subject to U.S. jurisdiction
+    maybe held civilly liable even if such person did not know or have reason to know
+    that it was engaging in a transaction that was prohibited under sanctions laws
+    and regulations administered by OFAC.
 Mississippi:
-  citation: https://ofac.treasury.gov/recent-actions/20201001
+  citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
-  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
-    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
-    cases of paying a ransom are illegal.
+  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+    thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
+    all private companies and citizens from paying ransom or extortion demands and
+    recommends focusing on strengthening defensive and resilience measures to prevent
+    and protect against ransomware attacks. OFAC may impose civil penalties for sanctions
+    violations based on strict liability, meaning that a person subject to U.S. jurisdiction
+    maybe held civilly liable even if such person did not know or have reason to know
+    that it was engaging in a transaction that was prohibited under sanctions laws
+    and regulations administered by OFAC.
 Missouri:
-  citation: https://ofac.treasury.gov/recent-actions/20201001
+  citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
-  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
-    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
-    cases of paying a ransom are illegal.
+  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+    thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
+    all private companies and citizens from paying ransom or extortion demands and
+    recommends focusing on strengthening defensive and resilience measures to prevent
+    and protect against ransomware attacks. OFAC may impose civil penalties for sanctions
+    violations based on strict liability, meaning that a person subject to U.S. jurisdiction
+    maybe held civilly liable even if such person did not know or have reason to know
+    that it was engaging in a transaction that was prohibited under sanctions laws
+    and regulations administered by OFAC.
 Montana:
-  citation: https://ofac.treasury.gov/recent-actions/20201001
+  citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
-  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
-    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
-    cases of paying a ransom are illegal.
+  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+    thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
+    all private companies and citizens from paying ransom or extortion demands and
+    recommends focusing on strengthening defensive and resilience measures to prevent
+    and protect against ransomware attacks. OFAC may impose civil penalties for sanctions
+    violations based on strict liability, meaning that a person subject to U.S. jurisdiction
+    maybe held civilly liable even if such person did not know or have reason to know
+    that it was engaging in a transaction that was prohibited under sanctions laws
+    and regulations administered by OFAC.
+NOR:
+  citation1: https://nsm.no/fagomrader/digital-sikkerhet/rad-og-anbefalinger-innenfor-digital-sikkerhet/digital-utpressing/security-measures-against-ransomware-and-other-malware-attacks
+  color: green
+  info: 'AAlthough we have not been able to find explicit guidance, reading and reviewing
+    the  Norwegian National Security Authority gives the impression that although
+    they strongly encourage against paying ransoms, it is not technically illegal. '
 NZL:
-  citation: https://www.dpmc.govt.nz/our-programmes/national-security/cyber-security-strategy/cyber-ransom-advice
+  citation1: https://www.dpmc.govt.nz/our-programmes/national-security/cyber-security-strategy/cyber-ransom-advice
   color: yellow
   info: The New Zealand Government strongly discourages the payment of ransoms to
     cybercriminals, and urges all victims to report any cyber ransom incidents to
     the relevant agencies, regardless of whether a ransom is paid. Cabinet has agreed
     that government agencies do not pay cyber ransoms.
 Nebraska:
-  citation: https://ofac.treasury.gov/recent-actions/20201001
+  citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
-  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
-    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
-    cases of paying a ransom are illegal.
+  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+    thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
+    all private companies and citizens from paying ransom or extortion demands and
+    recommends focusing on strengthening defensive and resilience measures to prevent
+    and protect against ransomware attacks. OFAC may impose civil penalties for sanctions
+    violations based on strict liability, meaning that a person subject to U.S. jurisdiction
+    maybe held civilly liable even if such person did not know or have reason to know
+    that it was engaging in a transaction that was prohibited under sanctions laws
+    and regulations administered by OFAC.
 Nevada:
-  citation: https://ofac.treasury.gov/recent-actions/20201001
+  citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
-  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
-    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
-    cases of paying a ransom are illegal.
+  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+    thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
+    all private companies and citizens from paying ransom or extortion demands and
+    recommends focusing on strengthening defensive and resilience measures to prevent
+    and protect against ransomware attacks. OFAC may impose civil penalties for sanctions
+    violations based on strict liability, meaning that a person subject to U.S. jurisdiction
+    maybe held civilly liable even if such person did not know or have reason to know
+    that it was engaging in a transaction that was prohibited under sanctions laws
+    and regulations administered by OFAC.
 New Hampshire:
-  citation: https://ofac.treasury.gov/recent-actions/20201001
+  citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
-  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
-    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
-    cases of paying a ransom are illegal.
+  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+    thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
+    all private companies and citizens from paying ransom or extortion demands and
+    recommends focusing on strengthening defensive and resilience measures to prevent
+    and protect against ransomware attacks. OFAC may impose civil penalties for sanctions
+    violations based on strict liability, meaning that a person subject to U.S. jurisdiction
+    maybe held civilly liable even if such person did not know or have reason to know
+    that it was engaging in a transaction that was prohibited under sanctions laws
+    and regulations administered by OFAC.
 New Jersey:
-  citation: https://ofac.treasury.gov/recent-actions/20201001
+  citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
-  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
-    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
-    cases of paying a ransom are illegal.
+  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+    thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
+    all private companies and citizens from paying ransom or extortion demands and
+    recommends focusing on strengthening defensive and resilience measures to prevent
+    and protect against ransomware attacks. OFAC may impose civil penalties for sanctions
+    violations based on strict liability, meaning that a person subject to U.S. jurisdiction
+    maybe held civilly liable even if such person did not know or have reason to know
+    that it was engaging in a transaction that was prohibited under sanctions laws
+    and regulations administered by OFAC.
 New Mexico:
-  citation: https://ofac.treasury.gov/recent-actions/20201001
+  citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
-  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
-    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
-    cases of paying a ransom are illegal.
+  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+    thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
+    all private companies and citizens from paying ransom or extortion demands and
+    recommends focusing on strengthening defensive and resilience measures to prevent
+    and protect against ransomware attacks. OFAC may impose civil penalties for sanctions
+    violations based on strict liability, meaning that a person subject to U.S. jurisdiction
+    maybe held civilly liable even if such person did not know or have reason to know
+    that it was engaging in a transaction that was prohibited under sanctions laws
+    and regulations administered by OFAC.
 New York:
-  citation: https://ofac.treasury.gov/recent-actions/20201001
+  citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
-  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
-    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
-    cases of paying a ransom are illegal.
+  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+    thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
+    all private companies and citizens from paying ransom or extortion demands and
+    recommends focusing on strengthening defensive and resilience measures to prevent
+    and protect against ransomware attacks. OFAC may impose civil penalties for sanctions
+    violations based on strict liability, meaning that a person subject to U.S. jurisdiction
+    maybe held civilly liable even if such person did not know or have reason to know
+    that it was engaging in a transaction that was prohibited under sanctions laws
+    and regulations administered by OFAC.
 North Carolina:
-  citation: https://www.ncleg.gov/EnactedLegislation/Statutes/PDF/BySection/Chapter_143/GS_143-800.pdf
+  citation1: https://www.ncleg.gov/EnactedLegislation/Statutes/PDF/BySection/Chapter_143/GS_143-800.pdf
   color: red
   info: NCGS § 143-800 (2021 S.B. 105 (art. 84)) Prohibits state agencies or local
     government entities from submitting payment or otherwise communicating with an
     entity that us making a ransomware demand.
 North Dakota:
-  citation: https://ndlegis.gov/cencode/t54c59-1.html
+  citation1: https://ndlegis.gov/cencode/t54c59-1.html
   color: purple
   info: 'Requires an entity to disclose to the department an identified or suspected
     cybersecurity incident that affects the confidentiality, integrity, or availability
@@ -276,98 +485,213 @@ North Dakota:
     of services; 4. Demands for ransom related to a cybersecurity incident or unauthorized
     disclosure of digital records'
 Ohio:
-  citation: https://ofac.treasury.gov/recent-actions/20201001
+  citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
-  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
-    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
-    cases of paying a ransom are illegal.
+  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+    thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
+    all private companies and citizens from paying ransom or extortion demands and
+    recommends focusing on strengthening defensive and resilience measures to prevent
+    and protect against ransomware attacks. OFAC may impose civil penalties for sanctions
+    violations based on strict liability, meaning that a person subject to U.S. jurisdiction
+    maybe held civilly liable even if such person did not know or have reason to know
+    that it was engaging in a transaction that was prohibited under sanctions laws
+    and regulations administered by OFAC.
 Oklahoma:
-  citation: https://ofac.treasury.gov/recent-actions/20201001
+  citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
-  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
-    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
-    cases of paying a ransom are illegal.
+  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+    thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
+    all private companies and citizens from paying ransom or extortion demands and
+    recommends focusing on strengthening defensive and resilience measures to prevent
+    and protect against ransomware attacks. OFAC may impose civil penalties for sanctions
+    violations based on strict liability, meaning that a person subject to U.S. jurisdiction
+    maybe held civilly liable even if such person did not know or have reason to know
+    that it was engaging in a transaction that was prohibited under sanctions laws
+    and regulations administered by OFAC.
 Oregon:
-  citation: https://ofac.treasury.gov/recent-actions/20201001
+  citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
-  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
-    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
-    cases of paying a ransom are illegal.
+  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+    thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
+    all private companies and citizens from paying ransom or extortion demands and
+    recommends focusing on strengthening defensive and resilience measures to prevent
+    and protect against ransomware attacks. OFAC may impose civil penalties for sanctions
+    violations based on strict liability, meaning that a person subject to U.S. jurisdiction
+    maybe held civilly liable even if such person did not know or have reason to know
+    that it was engaging in a transaction that was prohibited under sanctions laws
+    and regulations administered by OFAC.
 Pennsylvania:
-  citation: https://ofac.treasury.gov/recent-actions/20201001
+  citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
-  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
-    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
-    cases of paying a ransom are illegal.
+  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+    thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
+    all private companies and citizens from paying ransom or extortion demands and
+    recommends focusing on strengthening defensive and resilience measures to prevent
+    and protect against ransomware attacks. OFAC may impose civil penalties for sanctions
+    violations based on strict liability, meaning that a person subject to U.S. jurisdiction
+    maybe held civilly liable even if such person did not know or have reason to know
+    that it was engaging in a transaction that was prohibited under sanctions laws
+    and regulations administered by OFAC.
 Rhode Island:
-  citation: https://ofac.treasury.gov/recent-actions/20201001
+  citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
-  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
-    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
-    cases of paying a ransom are illegal.
+  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+    thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
+    all private companies and citizens from paying ransom or extortion demands and
+    recommends focusing on strengthening defensive and resilience measures to prevent
+    and protect against ransomware attacks. OFAC may impose civil penalties for sanctions
+    violations based on strict liability, meaning that a person subject to U.S. jurisdiction
+    maybe held civilly liable even if such person did not know or have reason to know
+    that it was engaging in a transaction that was prohibited under sanctions laws
+    and regulations administered by OFAC.
+SGP:
+  citation1: https://lawgazette.com.sg/practice/practice-matters/when-is-it-time-to-pay-the-piper/
+  color: green
+  info: There are no specific prohibitions against the payment of ransom in Singapore,
+    obligations and/or offences under various sanctions and terrorism financing laws
+    (such as the Terrorism (Suppression of Financing) Act, and the United Nations
+    Act) and anti-money laundering (AML)-related laws (such as under the Corruption,
+    Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act) may
+    be relevant to consider. Ethical issues may also arise in the decision matrix
+    as to whether ransomware payments should be made in any particular case.
 South Carolina:
-  citation: https://ofac.treasury.gov/recent-actions/20201001
+  citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
-  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
-    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
-    cases of paying a ransom are illegal.
+  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+    thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
+    all private companies and citizens from paying ransom or extortion demands and
+    recommends focusing on strengthening defensive and resilience measures to prevent
+    and protect against ransomware attacks. OFAC may impose civil penalties for sanctions
+    violations based on strict liability, meaning that a person subject to U.S. jurisdiction
+    maybe held civilly liable even if such person did not know or have reason to know
+    that it was engaging in a transaction that was prohibited under sanctions laws
+    and regulations administered by OFAC.
 South Dakota:
-  citation: https://ofac.treasury.gov/recent-actions/20201001
+  citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
-  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
-    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
-    cases of paying a ransom are illegal.
+  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+    thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
+    all private companies and citizens from paying ransom or extortion demands and
+    recommends focusing on strengthening defensive and resilience measures to prevent
+    and protect against ransomware attacks. OFAC may impose civil penalties for sanctions
+    violations based on strict liability, meaning that a person subject to U.S. jurisdiction
+    maybe held civilly liable even if such person did not know or have reason to know
+    that it was engaging in a transaction that was prohibited under sanctions laws
+    and regulations administered by OFAC.
 Tennessee:
-  citation: https://ofac.treasury.gov/recent-actions/20201001
+  citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
-  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
-    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
-    cases of paying a ransom are illegal.
+  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+    thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
+    all private companies and citizens from paying ransom or extortion demands and
+    recommends focusing on strengthening defensive and resilience measures to prevent
+    and protect against ransomware attacks. OFAC may impose civil penalties for sanctions
+    violations based on strict liability, meaning that a person subject to U.S. jurisdiction
+    maybe held civilly liable even if such person did not know or have reason to know
+    that it was engaging in a transaction that was prohibited under sanctions laws
+    and regulations administered by OFAC.
 Texas:
-  citation: https://ofac.treasury.gov/recent-actions/20201001
+  citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
-  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
-    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
-    cases of paying a ransom are illegal.
+  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+    thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
+    all private companies and citizens from paying ransom or extortion demands and
+    recommends focusing on strengthening defensive and resilience measures to prevent
+    and protect against ransomware attacks. OFAC may impose civil penalties for sanctions
+    violations based on strict liability, meaning that a person subject to U.S. jurisdiction
+    maybe held civilly liable even if such person did not know or have reason to know
+    that it was engaging in a transaction that was prohibited under sanctions laws
+    and regulations administered by OFAC.
 Utah:
-  citation: https://ofac.treasury.gov/recent-actions/20201001
+  citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
-  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
-    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
-    cases of paying a ransom are illegal.
+  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+    thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
+    all private companies and citizens from paying ransom or extortion demands and
+    recommends focusing on strengthening defensive and resilience measures to prevent
+    and protect against ransomware attacks. OFAC may impose civil penalties for sanctions
+    violations based on strict liability, meaning that a person subject to U.S. jurisdiction
+    maybe held civilly liable even if such person did not know or have reason to know
+    that it was engaging in a transaction that was prohibited under sanctions laws
+    and regulations administered by OFAC.
 Vermont:
-  citation: https://ofac.treasury.gov/recent-actions/20201001
+  citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
-  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
-    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
-    cases of paying a ransom are illegal.
+  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+    thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
+    all private companies and citizens from paying ransom or extortion demands and
+    recommends focusing on strengthening defensive and resilience measures to prevent
+    and protect against ransomware attacks. OFAC may impose civil penalties for sanctions
+    violations based on strict liability, meaning that a person subject to U.S. jurisdiction
+    maybe held civilly liable even if such person did not know or have reason to know
+    that it was engaging in a transaction that was prohibited under sanctions laws
+    and regulations administered by OFAC.
 Virginia:
-  citation: https://ofac.treasury.gov/recent-actions/20201001
+  citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
-  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
-    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
-    cases of paying a ransom are illegal.
+  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+    thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
+    all private companies and citizens from paying ransom or extortion demands and
+    recommends focusing on strengthening defensive and resilience measures to prevent
+    and protect against ransomware attacks. OFAC may impose civil penalties for sanctions
+    violations based on strict liability, meaning that a person subject to U.S. jurisdiction
+    maybe held civilly liable even if such person did not know or have reason to know
+    that it was engaging in a transaction that was prohibited under sanctions laws
+    and regulations administered by OFAC.
 Washington:
-  citation: https://ofac.treasury.gov/recent-actions/20201001
+  citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
-  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
-    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
-    cases of paying a ransom are illegal.
+  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+    thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
+    all private companies and citizens from paying ransom or extortion demands and
+    recommends focusing on strengthening defensive and resilience measures to prevent
+    and protect against ransomware attacks. OFAC may impose civil penalties for sanctions
+    violations based on strict liability, meaning that a person subject to U.S. jurisdiction
+    maybe held civilly liable even if such person did not know or have reason to know
+    that it was engaging in a transaction that was prohibited under sanctions laws
+    and regulations administered by OFAC.
 West Virginia:
-  citation: https://ofac.treasury.gov/recent-actions/20201001
+  citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
-  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
-    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
-    cases of paying a ransom are illegal.
+  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+    thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
+    all private companies and citizens from paying ransom or extortion demands and
+    recommends focusing on strengthening defensive and resilience measures to prevent
+    and protect against ransomware attacks. OFAC may impose civil penalties for sanctions
+    violations based on strict liability, meaning that a person subject to U.S. jurisdiction
+    maybe held civilly liable even if such person did not know or have reason to know
+    that it was engaging in a transaction that was prohibited under sanctions laws
+    and regulations administered by OFAC.
 Wisconsin:
-  citation: https://ofac.treasury.gov/recent-actions/20201001
+  citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
-  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
-    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
-    cases of paying a ransom are illegal.
+  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+    thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
+    all private companies and citizens from paying ransom or extortion demands and
+    recommends focusing on strengthening defensive and resilience measures to prevent
+    and protect against ransomware attacks. OFAC may impose civil penalties for sanctions
+    violations based on strict liability, meaning that a person subject to U.S. jurisdiction
+    maybe held civilly liable even if such person did not know or have reason to know
+    that it was engaging in a transaction that was prohibited under sanctions laws
+    and regulations administered by OFAC.
 Wyoming:
-  citation: https://ofac.treasury.gov/recent-actions/20201001
+  citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
-  info: A 2020 ruling by the U.S. Department of Treasury’s Office of Foreign Assets
-    Control (OFAC) and the Financial Crimes Enforcement Network (FinCEN) states most
-    cases of paying a ransom are illegal.
+  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+    thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
+    all private companies and citizens from paying ransom or extortion demands and
+    recommends focusing on strengthening defensive and resilience measures to prevent
+    and protect against ransomware attacks. OFAC may impose civil penalties for sanctions
+    violations based on strict liability, meaning that a person subject to U.S. jurisdiction
+    maybe held civilly liable even if such person did not know or have reason to know
+    that it was engaging in a transaction that was prohibited under sanctions laws
+    and regulations administered by OFAC.
+ZAF:
+  citation1: https://www.fasken.com/en/knowledge/2022/04/ransomware-to-pay-or-not-to-pay
+  color: green
+  info: Legally there is no prohibition from paying a ransom, but consideration should
+    be given to whether such an entity or person to whom the ransom payment is being
+    made is sanctioned or a terrorist group. In practice, the identity of the perpetrator
+    might not be ascertainable thus it is important for businesses to conduct necessary
+    risk assessments before making such payments and have regard to their data protection
+    obligations to report data breaches to the relevant parties.

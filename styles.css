@@ -16,15 +16,19 @@ body, html {
 }
 
 .legend {
-    position: absolute;
     bottom: 10px;
     right: 10px;
+    transform-origin: bottom right; /* Ensuring the scale transformation is based on the bottom right corner */
+    transform: scale(0.5); /* Reducing the size to 50% */
+    position: absolute;
     background-color: rgba(255, 255, 255, 0.8);
     padding: 10px;
     border-radius: 5px;
     z-index: 10000;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
 }
+
+
 
 .legend-header {
     font-weight: bold;
