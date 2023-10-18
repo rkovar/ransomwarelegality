@@ -1,8 +1,9 @@
 AUS:
   citation1: https://www.cyber.gov.au/report-and-recover/recover-from/ransomware
-  color: green
+  citation2: https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r6730
+  color: orange
   info: As of today it is not illegal to pay ransom in Australia but it is highly
-    discouraged
+    discouraged. However, there is legislation in progress (Ransomware Payments Bill 2021) to establishe a mandatory requirement for Commonwealth, state or territory entities, corporations and partnerships to report to the Australian Cyber Security Centre ransomware payments paid in response to a ransomware attack.
 Alabama:
   citation1: https://ofac.treasury.gov/recent-actions/20201001
   color: yellow
@@ -164,10 +165,11 @@ FRA:
     of a maximum amount of EUR 100m or 10% of their turnover [7].
 Florida:
   citation1: http://custom.statenet.com/public/resources.cgi?id=ID:bill:FL2022000H7055&ciq=ncsl&client_md=873221c8bbff89a3b5b060ab949b22da&mode=current_text
-  color: purple
-  info: 'Requires state agencies and local governments to report ransomware incidents
+  citation2: https://www.flsenate.gov/Laws/Statutes/2023/0282.3186#:~:text=The%20Florida%20Senate,-Home&text=282.3186%20Ransomware%20incident%20compliance.,comply%20with%20a%20ransom%20demand.
+  color: red
+  info: 'A state agency as defined in s. 282.318(2), a county, or a municipality experiencing a ransomware incident may not pay or otherwise comply with. Furthermore Florida, requires state agencies and local governments to report ransomware incidents
     to certain entities within specified timeframes. Requires an annual ransomware
-    incident report be submitted to the Governor and the Legislature.  '
+    incident report be submitted to the Governor and the Legislature.'
 GBR:
   citation1: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1135587/Ransomware___Sanctions_guidance__Feb_2023_.pdf
   citation2: https://www.cliffordchance.com/content/dam/cliffordchance/briefings/2020/12/Ransomware%20Playbook%20-%20Prevention%20and%20Response.pdf
@@ -456,8 +458,9 @@ New Mexico:
     and regulations administered by OFAC.
 New York:
   citation1: https://ofac.treasury.gov/recent-actions/20201001
-  color: yellow
-  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+  citation2: https://www.nysenate.gov/legislation/bills/2021/S6806#:~:text=2021%2DS6806A%20(ACTIVE)%20%2D%20Summary,cyber%20ransom%20or%20ransomware%20attack.
+  color: orange
+  info: New York is presently considering legislation to ban ransomware payments and require reporting. Too Long Didn't Read... If you pay a ransom to an organization the US government
     thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
     all private companies and citizens from paying ransom or extortion demands and
     recommends focusing on strengthening defensive and resilience measures to prevent
@@ -522,8 +525,9 @@ Oregon:
     and regulations administered by OFAC.
 Pennsylvania:
   citation1: https://ofac.treasury.gov/recent-actions/20201001
-  color: yellow
-  info: Too Long Didn't Read... If you pay a ransom to an organization the US government
+  citation2: https://www.legis.state.pa.us/cfdocs/billInfo/billInfo.cfm?sYear=2021&sInd=0&body=S&type=B&bn=0726
+  color: orange
+  info: Similar to other states, Pennsylvania's pending legislation attempts to block public monies (state and local) from paying ransoms. Too Long Didn't Read... If you pay a ransom to an organization the US government
     thinks are terrorists, you will have a bad day. The U.S. government strongly discourages
     all private companies and citizens from paying ransom or extortion demands and
     recommends focusing on strengthening defensive and resilience measures to prevent
