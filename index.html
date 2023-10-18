@@ -5,13 +5,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Interactive Map of Countries that Will Allow You to Pay Ransomware or Extortion Demands</title>
-    <link rel="icon" href="favicon.ico" type="image/x-icon"> <!-- Favicon added here -->
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
     <meta name="description" content="An exploration into the legality of ransomware payment">
 
     <!-- Open Graph Tags -->
     <meta property="og:title" content="Interactive Map of Countries that Will Allow You to Pay Ransomware or Extortion Demands">
     <meta property="og:description" content="An exploration into the legality of ransomware payment">
-    <meta property="og:image" content="isitlegal.png"> <!-- Replace with the link to your image -->
+    <meta property="og:image" content="URL_TO_YOUR_IMAGE">
     <meta property="og:url" content="https://isitlegaltopay.com">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Is It Legal To Pay?">
@@ -20,14 +20,116 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
 
     <!-- Internal styles for the map container, legend, and info box -->
-    <!-- [ ... existing CSS styles ... ] -->
+    <style>
+        body, html {
+            height: 100%;
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        #mapContainer {
+            position: relative;
+            height: 100%;
+            width: 100%;
+        }
+
+        #map {
+            height: 100%;
+            width: 100%;
+        }
+
+        .legend, .info-box {
+            position: absolute;
+            background-color: rgba(255, 255, 255, 0.8);
+            padding: 10px;
+            border-radius: 5px;
+            z-index: 10000;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+        }
+
+        .legend {
+            bottom: 10px;
+            right: 10px;
+        }
+
+        .info-box {
+            top: 10px;
+            left: 10px;
+            max-width: 300px; 
+        }
+
+        .legend-header, .info-box-header {
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .legend-row {
+            display: flex;
+            align-items: center;
+            margin-bottom: 5px;
+        }
+
+        .legend-color {
+            width: 20px;
+            height: 20px;
+            border: 1px solid #ccc;
+            margin-right: 5px;
+        }
+
+        a.info-box-link {
+            color: #0077cc;
+            text-decoration: none;
+        }
+
+        a.info-box-link:hover {
+            text-decoration: underline;
+        }
+    </style>
 
     <!-- Include the js-yaml library -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js"></script>
 </head>
 
 <body>
-    <!-- [ ... existing body content ... ] -->
+
+    <div id="mapContainer">
+        <div id="map"></div>
+
+        <!-- Legend -->
+        <div class="legend">
+            <div class="legend-header">Can I pay the ransom?</div>
+            <div class="legend-row">
+                <div class="legend-color" style="background-color: red;"></div>
+                <div>Illegal to pay*</div>
+            </div>
+            <div class="legend-row">
+                <div class="legend-color" style="background-color: green;"></div>
+                <div>Legal to pay</div>
+            </div>
+            <div class="legend-row">
+                <div class="legend-color" style="background-color: purple;"></div>
+                <div>Yes, but you have to report</div>
+            </div>
+            <div class="legend-row">
+                <div class="legend-color" style="background-color: yellow;"></div>
+                <div>It's complicated</div>
+            </div>
+            <div class="legend-row">
+                <div class="legend-color" style="background-color: orange;"></div>
+                <div>Legislation is in progress to prevent payment</div>
+            </div>        
+            <div class="legend-row">
+                <div class="legend-color" style="background-color: white;"></div>
+                <div>Unknown at this time</div>
+            </div>
+        </div>
+
+        <!-- Info Box -->
+        <div class="info-box">
+            <div class="info-box-header">Is it legal to pay a ransom in an extortion event?</div>
+            This is a difficult question. Some countries say that it's a bad idea because "you might fund terrorism" others are explicit in saying "no". The data is still coming up, but feel free to <a href="https://github.com/rkovar/ransomwarelegality" target="_blank" class="info-box-link">contribute on github</a> if you know more information or find anything incorrect. It should be noted, I am not a lawyer so check with your local government or local legal representation before believing someone on the internet. But if you have questions, <a href="aboutme.html" target="_blank" class="info-box-link">find me here</a> 
+        </div>
+    </div>
 
     <!-- Leaflet JS -->
     <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
